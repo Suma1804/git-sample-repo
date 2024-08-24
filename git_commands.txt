@@ -1,1 +1,8 @@
-git commands
+git commands:
+git init
+git status
+git add .
+git add "filename"
+git commit
+
+git add * - adds all the files
